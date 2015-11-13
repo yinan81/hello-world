@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>DB_DEV</id>
-    <version>1</version>
+    <version>$version$</version>
     <title>DB_DEV</title>
     <authors>AFT</authors>
     <owners>AFT</owners>
