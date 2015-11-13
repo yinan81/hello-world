@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DB_DEV</id>
+    <version>1</version>
+    <title>DB_DEV</title>
+    <authors>AFT</authors>
+    <owners>AFT</owners>
+    <licenseUrl>http://afusion.com/license</licenseUrl>
+    <projectUrl>http://afusion.com/</projectUrl>
+    <description>DB_DEV</description>
+    <releaseNotes>DB_DEV</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+  <files>
+    <file src="Manila\*.sql" />
+  </files>
+</package>
