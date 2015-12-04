@@ -7,3 +7,6 @@ BEGIN
   NULL;
 END PROCEDURE1;
 /
+
+exit
+/
