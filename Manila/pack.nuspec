@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>DB_DEV</id>
+    <id>DB_STAGING</id>
     <version>$version$</version>
-    <title>DB_DEV</title>
+    <title>DB_STAGING</title>
     <authors>AFT</authors>
     <owners>AFT</owners>
     <licenseUrl>http://afusion.com/license</licenseUrl>
     <projectUrl>http://afusion.com/</projectUrl>
-    <description>DB_DEV</description>
-    <releaseNotes>DB_DEV</releaseNotes>
+    <description>DB_STAGING</description>
+    <releaseNotes>DB_STAGING</releaseNotes>
     <copyright>Copyright 2015</copyright>
   </metadata>
   <files>
