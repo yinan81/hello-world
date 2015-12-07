@@ -13,7 +13,7 @@
     <copyright>Copyright 2015</copyright>
   </metadata>
   <files>
-    <file src="DB/2015/201512/20151207/sunyi/ddl/*.sql" />
-	<file src="DB/2015/201512/20151207/sunyi/dml/*.sql" />
+    <file src="DB\2015\201512\20151207\sunyi\ddl\*.sql" target="ddl\" />
+	<file src="DB\2015\201512\20151207\sunyi\dml\*.sql" target="dml\" />
   </files>
 </package>
